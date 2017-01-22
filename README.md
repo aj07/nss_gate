@@ -25,7 +25,7 @@ Configuration & installation
 
 * You may have to modify Makefile for appropriate destination
 
-* Once the module is compiled and installed, please place `libnss_http.so.2` into `/lib/x86_64*/` on ubuntu or find where other nss modules are installed and put it over there.
+* Once the module is compiled and installed, please place `libnss_http.so.2` into `/lib/x86_64*/` on Ubuntu or find where other nss modules are installed and put it over there.
 
 * create directory /etc/gate and put nss.yml with following configuration
 
